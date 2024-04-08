@@ -560,49 +560,42 @@ System.in and System.out with scanner
 
                                                         ❗❗❗ 🚗🚗[ENCAPSULATION]🚗🚗 ❗❗❗
 
+------- ❗❗❗❗❗ CHALLENGE ❗❗❗❗❗ -------BankAccount === on Git-Hub => Classes-Challenge -------
+-How to create logic for depositing funds in a back account [BankAccount.java]/[Main.java]
+-How to create the logic for withdrawal funds from bank account [BankAccount.java]/[Main.java]
+
+
 [Lesson 75]/[Car.java]/[Main.java]
 
-    ## ✅II. subtitlu
+    ## ✅II. - How to use the CONSTRUCTOR 
+             - How to call a CONSTRUCTOR from another CONSTRUCTOR
+             - How to create a Constructor using shortcuts in IntelliJ. Go to: Menu, Generate, Constructor, and select what you need
+             - How to auto create a Constructor: Menu, Generate, Constructor, and select what you need
 
-    ## ✅III. subtitlu
+             -CHALLENGE [ConstructorChallenge.java]
+             - More detailed about CONSTRUCTORS and how to use them [House.java]
 
-    ## ✅IV. subtitlu
+ex: public class Account { // this is the class declaration
+            public Account (){ // this is the constructor declaration
+                // Constructor code is code to be executed as the object is created
+            }
+    }
 
-    ## ✅V. subtitlu
+[BankAccount.java]/[Main.java]/[House.java]/[ConstructorChallenge.java]
 
-    ## ✅VI. subtitlu
+                                                        ❗❗❗ 🚧🚧[CONSTRUCTOR]🚧🚧 ❗❗❗
 
-    ## ✅VII. subtitlu
+    ## ✅I. - How to use the POJO class
+             -
 
-    ## ✅VIII. subtitlu
 
-    ## ✅IX. subtitlu
+[Student.java]/[Main.java]
 
-    ## ✅X. subtitlu
+                                                        ❗❗❗ 🐎🐎[POJO CLASS]🐎🐎 ❗❗❗
 
-    ## ✅XI. subtitlu
+# 6. Title
 
-    ## ✅XII. subtitlu
-
-    ## ✅XIII. subtitlu
-
-    ## ✅XIV. subtitlu
-
-    ## ✅XV. subtitlu
-
-    ## ✅XVI. subtitlu
-
-    ## ✅XVII. subtitlu
-
-    ## ✅XVIII. subtitlu
-
-    ## ✅XIX. subtitlu
-
-    ## ✅XX. subtitlu
-
-# 6. Titlu
-
-    ## ✅I. subtitlu
+    ## ✅I. aasasa
 
     ## ✅II. subtitlu
 
